@@ -1,0 +1,23 @@
+{
+  "name": "purescript-jquery-example",
+  "version": "0.0.0",
+  "homepage": "https://github.com/minamijoyo/purescript-jquery-example",
+  "description": "Example for purescript-jquery library",
+  "keywords": [
+    "purescript"
+  ],
+  "authors": [
+    "minamijoyo <minamijoyo@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/js"
+  ],
+  "dependencies": {
+    "purescript-foreign": "~0.2.0",
+    "purescript-jquery": "0.2.3"
+  }
+}
